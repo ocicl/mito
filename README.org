@@ -4,6 +4,6 @@ An ORM for Common Lisp with migrations, relationships and PostgreSQL support
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/fukamachi/mito.git |
-| commit  | 437453c                                   |
+| commit  | 596b074                                   |
 | systems | mito                                      |
 |---------+-------------------------------------------|
